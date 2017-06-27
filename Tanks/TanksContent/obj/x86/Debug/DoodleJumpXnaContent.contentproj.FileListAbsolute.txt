@@ -1,0 +1,2 @@
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXnaContent\obj\x86\Debug\DoodleJumpXnaContent.contentprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXnaContent\obj\x86\Debug\DoodleJumpXnaContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,160 @@
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Background.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Batoot.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\BlackHole.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\BottomBar.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Btn.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\BtnHover.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Bullet.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Doodler.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\DoodlerGyro.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\DoodlerU.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Gyro.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Icon.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\JetPack.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Jumper.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Monster1.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Monster2.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Monster3.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Monster4.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Monster5.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Monster6.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\PBlue.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\PBrown.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\PGreen.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\PWhite.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\SplashL.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\SplashR.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\SplashU.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Spring.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\TopBar.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Ufo.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\DoodleJumpXna.exe
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\DoodleJumpXna.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Net.RichardLord.Ash.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Net.RichardLord.Ash.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\DoodleJumpXna.exe
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\DoodleJumpXna.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_0.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_1.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_10.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_11.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_12.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_13.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_14.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_15.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_16.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_17.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_18.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_19.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_2.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_20.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_21.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_22.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_23.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_24.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_25.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_26.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_3.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_4.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_5.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_6.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_7.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_8.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Sounds\sfx_9.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\playon_X.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\play_X.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Pause.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Resume.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\PlayAgain.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Menu.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\GameOver.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Stars.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Monster7.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Monster8.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Monster9.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Five.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\DoodleJump\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Logo.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\DoodleJumpXna.exe
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\DoodleJumpXna.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Net.RichardLord.Ash.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Net.RichardLord.Ash.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\DoodleJumpXna.exe
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\DoodleJumpXna.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\DoodleJumpXna.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\mario.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\GOBA2\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\blocks.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\mario.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\blocks.xnb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\DoodleJumpXna.exe
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\DoodleJumpXna.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Net.RichardLord.Ash.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Net.RichardLord.Ash.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\DoodleJumpXna.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\DoodleJumpXna.exe
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Mario\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\DoodleJumpXna.pdb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\DoodleJumpXna.exe
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\DoodleJumpXna.pdb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Net.RichardLord.Ash.dll
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Net.RichardLord.Ash.pdb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\DoodleJumpXna.exe
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\DoodleJumpXna.pdb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Barrier.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Bullet.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\BulletExplosion.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\EnemyExplosion.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\GreenOverlay.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Heaven.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\RedOverlay.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\SteelWall.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Tank.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\TileSet.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Tower.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Tracer.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Tree.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Wall.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\DoodleJumpXna.csprojResolveAssemblyReference.cache

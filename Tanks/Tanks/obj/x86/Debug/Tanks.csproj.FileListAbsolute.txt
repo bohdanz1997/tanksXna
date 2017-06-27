@@ -1,0 +1,97 @@
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Barrier.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Bullet.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\BulletExplosion.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\EnemyExplosion.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\GreenOverlay.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Heaven.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\RedOverlay.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\SteelWall.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Tank.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\TileSet.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Tower.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Tracer.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Tree.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Wall.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Net.RichardLord.Ash.dll
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Net.RichardLord.Ash.pdb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Tanks.exe
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Tanks.pdb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\Tanks.exe
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\Tanks.pdb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\Cell.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\obj\x86\Debug\Tanks.csprojResolveAssemblyReference.cache
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\HealthBack.xnb
+E:\Projects\3 курс\Mario\DoodleJumpXna\DoodleJumpXna\bin\x86\Debug\Content\Images\HealthFront.xnb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Tanks.exe
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Tanks.pdb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Net.RichardLord.Ash.pdb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Projects\Games\Tanks\Tanks\Tanks\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Projects\Games\Tanks\Tanks\Tanks\obj\x86\Debug\Tanks.exe
+E:\Projects\Games\Tanks\Tanks\Tanks\obj\x86\Debug\Tanks.pdb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Images\BulletExplosion.xnb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Images\EnemyExplosion.xnb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Images\Heaven.xnb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Images\TileSet.xnb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Images\HealthBack.xnb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Images\HealthFront.xnb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Images\TilesetForTME.xnb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Net.RichardLord.Ash.dll
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Fonts\DefaultFont.xnb
+E:\Projects\Games\Tanks\Tanks\Tanks\obj\x86\Debug\Tanks.csprojResolveAssemblyReference.cache
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Images\GameTextures.xnb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Images\Overlay.xnb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\LindgrenNetwork.dll
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\ServerLogic.dll
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\LindgrenNetwork.pdb
+E:\Projects\Games\Tanks\Tanks\Tanks\bin\x86\Debug\ServerLogic.pdb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Content\Images\BulletExplosion.xnb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Content\Images\EnemyExplosion.xnb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Content\Images\Overlay.xnb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Content\Images\Heaven.xnb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Content\Images\TileSet.xnb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Content\Images\HealthBack.xnb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Content\Images\HealthFront.xnb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Content\Images\TilesetForTME.xnb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Content\Images\GameTextures.xnb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Content\Fonts\DefaultFont.xnb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Tanks.exe
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Tanks.pdb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\LindgrenNetwork.dll
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Net.RichardLord.Ash.pdb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\ServerLogic.pdb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\bin\x86\Debug\LindgrenNetwork.pdb
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\obj\x86\Debug\Tanks.csprojResolveAssemblyReference.cache
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\obj\x86\Debug\Tanks.exe
+D:\Users\Богдан\Desktop\tanks-master\Tanks\Tanks\obj\x86\Debug\Tanks.pdb
